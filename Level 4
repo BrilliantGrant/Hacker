@@ -1,0 +1,3 @@
+Extra hidden fields are added to the form which contains extra information for the login script. Again this is very easy for anyone to gain access to as it is clearly shown in the source code.
+
+Sometimes these fields can contain very important information.
